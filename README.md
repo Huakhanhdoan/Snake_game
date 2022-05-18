@@ -21,7 +21,7 @@ Sử dụng CodeBlocks để chạy chương trình
 
 # Mô tả dự án:
 
-Có giao diện đơn giản và âm thanh dễ chịu
+Có giao diện đơn giản
 
 Có menu với các sự lựa chọn như Start, High score, Quit..
 
@@ -30,6 +30,8 @@ Sử dụng 4 hướng mũi tên để di chuyển con rắn
 Cách chơi đơn giản, dễ hiểu
 
 Có các chức năng như tạm dừng, điểm cao, chơi lại ...
+
+Có nhac nền, âm thanh khi con rắn ăn táo.
 
 Video demo:
 
