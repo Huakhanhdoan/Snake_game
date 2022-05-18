@@ -20,7 +20,7 @@
 # Các kỹ năng, ý tưởng rút ra từ dự án
 - Cách set up môi trường, tích hợp thư viện
 - Refactor, phân chia file và sử dụng github
-- Cải thiện kiến thức C++
+- Cải thiện kiến thức C++ như Class, Vector, con trỏ, hàm ... 
 # Kết luận, hướng phát triển:
 - Tham khảo cách sử dụng SDL2 trên https://lazyfoo.net/tutorials/SDL/
 - Hướng phát triển của game: Cải thiện hình ảnh, tạo thêm các vật phẩm có chức năng đặc biệt cho con rắn ăn, chọn rắn, thêm các lever , tạo bản đồ mới hoặc chế độ chơi mới.
