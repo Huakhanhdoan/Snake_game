@@ -16,7 +16,7 @@
 - Cách chơi đơn giản, dễ hiểu
 - Có các chức năng như tạm dừng, điểm cao, chơi lại ...
 - Có nhac nền, âm thanh khi con rắn ăn táo.
-- Video demo:
+- Video demo:https://www.youtube.com/watch?v=GsmdF9TXD6s
 # Các kỹ năng, ý tưởng rút ra từ dự án
 - Cách set up môi trường, tích hợp thư viện
 - Refactor, phân chia file và sử dụng github
